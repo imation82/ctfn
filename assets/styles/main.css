@@ -3,7 +3,7 @@ html {
 }
 
 .scroll-mt {
-    scroll-margin-top: 70px;
+    scroll-margin-top: 90px;
 }
 
 @media screen and (prefers-reduced-motion: reduce) {
