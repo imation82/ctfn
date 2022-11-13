@@ -47,7 +47,7 @@
                             <b-form-input class="mb-3" id="input-default" placeholder="Company/Organization"></b-form-input>
                         </b-form>
                         <b-form-checkbox id="checkbox-1" name="checkbox-1" value="accepted" unchecked-value="not_accepted">
-                            I agree to my personal data being sotred and used by CTFN for delivery of it's services. Please
+                            I agree to my personal data being stored and used by CTFN for delivery of it's services. Please
                             see <a href="/privacy-policy" style="color:blue">privacy</a> and <a href="/terms"
                                 style="color:blue">terms &amp; conditions.</a>
                         </b-form-checkbox>
