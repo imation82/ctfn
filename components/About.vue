@@ -9,7 +9,7 @@
         <b-container>
             <b-row>
                 <b-col md="3">
-                    <b-img class="d-none d-md-block" src="../assets/images/left.jpg" alt="Advertisement" fluid></b-img>
+                    <b-img class="bounce d-none d-md-block" src="../assets/images/left.jpg" alt="Advertisement" fluid></b-img>
                 </b-col>
                 <b-col md="9">
                     <header>
