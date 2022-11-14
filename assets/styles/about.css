@@ -2,6 +2,8 @@
 .about {
     position: relative;
     background: #f7fdff;
+    border-top: 1px solid #e6f9ff;
+    border-bottom: 1px solid #e6f9ff;
 }
 
 .visual-top-right {
