@@ -3,7 +3,6 @@
     <HeroSection />
     <About />
     <Products />
-    <Team />
     <Contact />
   </section>
 </template>
@@ -16,7 +15,6 @@ export default {
     HeroSection: () => import("@/components/HeroSection.vue"),
     About: () => import("@/components/About.vue"),
     Products: () => import("@/components/Products.vue"),
-    Team: () => import("@/components/Team.vue"),
     Contact: () => import("@/components/Contact.vue"),
   },
 };

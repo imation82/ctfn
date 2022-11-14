@@ -51,6 +51,19 @@
     margin-top: 40px;
 }
 
+@media (max-width:767px) {
+    .footer {
+        padding: 50px 0;
+    }
+    .terms {
+        font-size: 20px;
+    }
+    .privacy {
+        font-size: 20px;
+        margin-left: 30px;
+    }
+}
+
 @media (max-width: 992px) {
     .footer-top {
         display: none;

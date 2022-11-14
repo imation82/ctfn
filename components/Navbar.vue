@@ -21,7 +21,7 @@
                                     <a :href="`/#products`">Products</a>
                                 </li>
                                 <li @click="iconShow = !iconShow" class="mobileView-items">
-                                    <a href="#team">Team</a>
+                                    <a href="/team">Team</a>
                                 </li>
                                 <li @click="iconShow = !iconShow" class="mobileView-items">
                                     <a href="#contact">Contact</a>
