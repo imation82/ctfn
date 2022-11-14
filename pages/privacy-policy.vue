@@ -5,7 +5,7 @@
                 <h1>Privacy Policy</h1>
             </header>
             <div>
-                <h3 class="mb-2">Introduction</h3>
+                <h3 class="mt-3 mb-2">Introduction</h3>
                 <p class="mb-3">Welcome to the CTFN, LLC's Privacy Policy.
 
                     CTFN, LLC respects your privacy and is committed to protecting your personal data. This Privacy
