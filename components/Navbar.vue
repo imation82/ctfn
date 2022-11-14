@@ -15,16 +15,16 @@
                     <transition name="slide">
                         <div v-if="iconShow" class="navbar-links-mobileView">
                             <ul class="mobileView-list">
-                                <li @click="iconShow = !iconShow" class="mobileView-items"><a href="#about">About</a>
+                                <li @click="iconShow = !iconShow" class="mobileView-items"><a href="/#about">About</a>
                                 </li>
                                 <li @click="iconShow = !iconShow" class="mobileView-items">
-                                    <a :href="`/#products`">Products</a>
+                                    <a href="/#products">Products</a>
                                 </li>
                                 <li @click="iconShow = !iconShow" class="mobileView-items">
                                     <a href="/team">Team</a>
                                 </li>
                                 <li @click="iconShow = !iconShow" class="mobileView-items">
-                                    <a href="#contact">Contact</a>
+                                    <a href="/#contact">Contact</a>
                                 </li>
                                 <li @click="iconShow = !iconShow" class="mobileView-items">
                                     <a href="">Subscribe Portal</a>
