@@ -75,7 +75,7 @@ export default {
                 {
                     firstName: "Nils",
                     lastName: "Tracy",
-                    title: "Senior Product Manager and Deputy Editor",
+                    title: "Director of Product",
                     biography: "Nils is CTFN's senior regulatory and legal reporter covering special situations arising at the federal, state, and local level. Prior to joining CTFN, Nils founded Isogriv, an artificial intelligence platform for event driven investors and attorneys. He has also held positions as an event driven analyst at FiscalNote and Height Capital Markets. Nils previously ran the M&A and Event Driven products at Reorg, Inc. He holds an MA from Duke University with a concentration in Economics, a JD from Suffolk University Law School, and a BA from Miami University (OH)."
                 }, 
                 {
