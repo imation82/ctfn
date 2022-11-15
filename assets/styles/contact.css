@@ -38,10 +38,15 @@ h1 {
     border: none;
 }
 .submitBtn:hover,
-.submitBtn:focus,
 .submitBtn:active {
     background: #000000 !important;
     color: #ffffff;
+}
+
+.submitBtn:focus {
+    background: #12a8db !important;
+    color: #ffffff;
+    box-shadow: none !important;
 }
 
 .location {

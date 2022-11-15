@@ -56,6 +56,7 @@
 .subscribeBtn:active {
   color: #ffffff;
   background: #000000 !important;
+  box-shadow: none !important;
 }
 
 

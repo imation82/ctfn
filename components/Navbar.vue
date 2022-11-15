@@ -43,7 +43,7 @@
     </section>
 </template>
 <script>
-import MenuLinks from "~/components/MenuLinks";
+
 export default {
     components: {
         MenuLinks: () => import("@/components/MenuLinks.vue"),
