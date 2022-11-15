@@ -12,8 +12,12 @@
     border: none;
 }
 .trialBtn:hover,
-.trialBtn:focus,
 .trialBtn:active {
     background: #000000 !important;
     color: #ffffff;
+}
+
+.trialBtn:focus {
+    background: #12a8db !important;
+    box-shadow: none !important;
 }
