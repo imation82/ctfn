@@ -15,23 +15,15 @@
                     <b-col md="9">
                         <header>
                             <h1>About Us</h1>
-                            <p class="product-header-description">Founded by a team of former investment managers, and
-                                supported by experienced financial journalists, CTFN understands the questions on the minds
-                                of investors and professionals who are impacted by critical activity in mergers and special
-                                situations.</p>
-                            <p class="product-header-description">Our market-leading reporting and our proprietary data
-                                tools seek to address the questions and the information needs of investors and advisors
-                                following the nuanced developments in mergers, dynamic industry sectors, and key special
-                                situations.</p>
-                            <p class="product-header-description mb-5">CTFN provides time-sensitive updates for better
-                                decisions.</p>
-                                <b-btn class="submitBtn" @click="showTrial = !showTrial">Request a Trial</b-btn>
+                            <p class="product-header-description">CTFN is a market-leading news and data resource for investors and professionals who are serious about following merger-related developments and understanding events that could influence industrial dynamics — including changes in regulatory enforcement across North America, Europe, and the UK.</p>
+                            <p class="product-header-description">Our proprietary platform provides financial news, data, and resources for investors, legal and corporate professionals, regulators, and academics seeking granular knowledge around corporate mergers and notable events, potential impacts from changes in regulatory agencies, and insight into the political environment surrounding these situations. To learn more about CTFN, please schedule a complimentary platform overview.</p>
+                                <b-btn id="trial" href="/#trialForm" class="mt-5 submitBtn scroll-trial" @click="showTrial = !showTrial">Request a Trial</b-btn>
                         </header>
                     </b-col>
                 </b-row>
             </b-container>            
         </div>
-        <div v-if="showTrial" id="trialForm" class="request-trial">
+        <div v-if="showTrial" id="trialForm" class="request-trial scroll-padding">
             <b-container>
                 <header class="text-center">
                     <p class="request-trial-subTitle">Complete the form below and one of our representatives will be in
@@ -77,4 +69,12 @@ export default {
 <style>
 @import "../assets/styles/about.css";
 @import "../assets/styles/trial-form.css";
+
+.scroll-trial {
+    scroll-margin-top: 120px;
+}
+.scroll-padding {
+    scroll-margin-top: 240px;
+}
+
 </style>

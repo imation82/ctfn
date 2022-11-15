@@ -35,7 +35,7 @@
                     <div class="subscribeButton">
                         <a class="contact-button-link">
                             <b-btn class="subscribeBtn" href="">Subscriber Portal</b-btn>
-                        </a>                      
+                        </a>                                           
                     </div>
                 </main>
             </b-container>

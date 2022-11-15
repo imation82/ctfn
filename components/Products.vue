@@ -3,9 +3,7 @@
         <b-container>
             <header class="products-header">
                 <h1>Our Products</h1>
-                <p class="product-header-description">In addition to its market-leading news service, CTFN offers
-                    readers a range of tools and services to
-                    augment their investment research and awareness of activity in the deal space and beyond.</p>
+                <p class="product-header-description">In addition to its market-leading news, CTFN offers readers a range of tools and services to augment their investment research.</p>
             </header>
             <div class="pt-4">
                 <div class="skew-box">
@@ -24,7 +22,7 @@
 
             <div class="pt-4">
                 <div class="skew-box">
-                    <h3 class="box-item">The Daily Observer</h3>
+                    <h3 class="box-item">The Daily</h3>
                 </div>
                 <p class="pt-3">A weekday update of developments and changes in the deals that our analyst team is
                     tracking. The
@@ -40,7 +38,25 @@
 
             <div class="pt-4">
                 <div class="skew-box">
-                    <h3 class="box-item">CTFN SPEAKER SERIES</h3>
+                    <h3 class="box-item">CTFN API Data Offering</h3>
+                </div>
+                <p class="pt-3">Complete data set of news stories, content, tickers, dates and times since our service launched in 2014. Please see sample data and white paper <a style="color:blue;" href="https://tinyurl.com/CTFNnews" target="_blank">here</a>, or <a style="color:blue;" href="https://appt.link/ctfn-direct-consultation/ctfn-platform-introduction" target="_blank">schedule a product overview</a>.</p>
+            </div>
+
+            <div class="hoizontal-line mt-4"></div>
+
+            <div class="pt-4">
+                <div class="skew-box">
+                    <h3 class="box-item">Direct Consultations</h3>
+                </div>
+                <p class="pt-3">Schedule time to speak directly with a CTFN journalist if you have specific questions about a story. All Direct Consultations are chaperoned by CTFN’s Director of Compliance.</p>
+            </div>
+
+            <div class="hoizontal-line mt-4"></div>            
+
+            <div class="pt-4">
+                <div class="skew-box">
+                    <h3 class="box-item">CTFN Speaker Series</h3>
                 </div>
                 <p class="pt-3">Exclusive events that bring CTFN contacts face-to-face with subscribers. Readers gather
                     around the
@@ -60,7 +76,7 @@
 
             <div class="pt-4">
                 <div class="skew-box">
-                    <h3 class="box-item">RESOURCES & TOOLS</h3>
+                    <h3 class="box-item">Resources & Tools</h3>
                 </div>
                 <p class="pt-3">
                     CTFN readers have access to a range of resources on our platform to enhance their research
@@ -82,11 +98,7 @@
                         centralized location. Subscribers who also use the RMS inbox can integrate their own email
                         subscriptions into the search.</li>
                     <li>Filings – Links to all filings and resources referenced in our news content and the Daily
-                        Observer</li>
-                    <li>Direct Consultations – Schedule time to speak directly with a CTFN journalist if you have
-                        specific
-                        questions about a story. All Direct Consultations are chaperoned by CTFN’s Director of
-                        Compliance.</li>
+                        Observer.</li>
                 </ul>
             </div>
         </b-container>

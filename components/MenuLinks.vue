@@ -4,6 +4,7 @@
     <li><a href="/#products" class="desktopView-items">Products</a></li>
     <li><a href="/team" class="desktopView-items">Team</a></li>
     <li><a href="/#contact" class="desktopView-items">Contact</a></li>
+    <li><a href="/#trial" class="desktopView-items">Request Trial</a></li>
   </ul>
 </template>
 
