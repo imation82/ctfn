@@ -23,7 +23,7 @@
                 </b-row>
             </b-container>            
         </div>
-        <div v-if="showTrial" class="request-trial">
+        <div v-show="showTrial" class="request-trial">
                 <b-container>
                     <header class="text-center">
                         <p class="request-trial-subTitle">Complete the form below and one of our representatives will be in
