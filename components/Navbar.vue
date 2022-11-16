@@ -27,6 +27,9 @@
                                     <a href="/#contact">Contact</a>
                                 </li>
                                 <li @click="iconShow = !iconShow" class="mobileView-items">
+                                    <a href="/#request-trial">Request Trial</a>
+                                </li>                                                                
+                                <li @click="iconShow = !iconShow" class="mobileView-items">
                                     <a href="">Subscriber Portal</a>
                                 </li>                                                               
                             </ul>
